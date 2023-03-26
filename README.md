@@ -1,1 +1,1 @@
-# jSixty
+# jSixty 60
